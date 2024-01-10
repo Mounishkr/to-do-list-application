@@ -45,6 +45,10 @@ Due dates should be entered in the format "YYYY-MM-DD."
 The application will continue running until the user chooses to exit.
 Feel free to use and modify this to-do list application based on your needs!
 
+<img width="390" alt="Screenshot 2024-01-10 at 4 26 08 PM" src="https://github.com/Mounishkr/to-do-list-application/assets/125851985/050f6288-8c96-4dbd-a312-d5e89142b6b7">
+
+
+
 
 
 
