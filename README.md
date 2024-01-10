@@ -1,8 +1,12 @@
 To-Do List Application
 
 Overview:-
+
+
 This is a simple command-line to-do list application written in Python.
+
 The application allows users to manage tasks by displaying them, adding new tasks, removing tasks, marking tasks as completed, and exiting the application.
+
 Task information such as description, priority, due date, and completion status is stored in a JSON file.
 
 Getting Started:-
@@ -15,15 +19,15 @@ Run the to_do_list.py file using the command python to_do_list.py in your termin
 Commands:-
 The application provides the following commands in the command menu:
 
-Display Tasks: View the list of tasks along with their details.
+1) Display Tasks: View the list of tasks along with their details.
 
-Add Task: Add a new task by providing a description, priority (high/medium/low), and due date (optional).
+2) Add Task: Add a new task by providing a description, priority (high/medium/low), and due date (optional).
 
-Remove Task: Remove a task by specifying its index in the displayed task list.
+3) Remove Task: Remove a task by specifying its index in the displayed task list.
 
-Mark Task as Completed: Mark a task as completed by specifying its index in the displayed task list.
+4) Mark Task as Completed: Mark a task as completed by specifying its index in the displayed task list.
 
-Exit: Save tasks and exit the application.
+5) Exit: Save tasks and exit the application.
 
 
 Task Structure
